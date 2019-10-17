@@ -15,4 +15,4 @@
 * 實際測試+說明
 ![](https://github.com/dustinoy/ohyang/blob/master/QuickSort/%E5%AF%A6%E9%9A%9B%E6%B8%AC%E8%A9%A6%2B%E8%AA%AA%E6%98%8E.jpg)
 
-*[程式碼](https://github.com/dustinoy/ohyang/blob/master/QuickSort/QuickSort.py)
+* [程式碼](https://github.com/dustinoy/ohyang/blob/master/QuickSort/QuickSort.py)
