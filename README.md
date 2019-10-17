@@ -10,7 +10,7 @@
  
 ### 歡迎來到我的GitHub~
 
-<img src='https://github.com/dustinoy/ohyang/blob/master/%E8%87%AA%E6%8B%8D.jpg' height=300 weight =300>
+<img src='https://github.com/dustinoy/ohyang/blob/master/Images/%E8%87%AA%E6%8B%8D.jpg' height=300 weight =300>
 
 #### 沒事多喝水，多喝水沒事！
 #### 我愛林品廷
