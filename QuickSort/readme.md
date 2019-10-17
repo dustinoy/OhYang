@@ -21,11 +21,13 @@
 ---
 
 ## 實際測試+說明
-  - Python ![](https://github.com/dustinoy/ohyang/blob/master/QuickSort/%E5%AF%A6%E9%9A%9B%E6%B8%AC%E8%A9%A6%2B%E8%AA%AA%E6%98%8E.jpg)
+  - Python 
+  ![](https://github.com/dustinoy/ohyang/blob/master/QuickSort/%E5%AF%A6%E9%9A%9B%E6%B8%AC%E8%A9%A6%2B%E8%AA%AA%E6%98%8E.jpg)
 
 ---
 
-  - Jupyter ![](https://github.com/dustinoy/ohyang/blob/master/QuickSort/%E7%A8%8B%E5%BC%8F%E7%A2%BCJupyter%E7%89%88.jpg)
+  - Jupyter 
+  ![](https://github.com/dustinoy/ohyang/blob/master/QuickSort/%E7%A8%8B%E5%BC%8F%E7%A2%BCJupyter%E7%89%88.jpg)
 
 - 程式碼
     - [版本一](https://github.com/dustinoy/ohyang/blob/master/QuickSort/QuickSort.ipynb)
