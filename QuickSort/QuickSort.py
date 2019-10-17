@@ -1,4 +1,4 @@
-list=[5,1,3,6,4,2,8,1,9]
+list=[5,7,3,8,27,9,6,100,1,55]
 
 def QS(list): #定義Quicksort
 	left=[] #建立三個list
