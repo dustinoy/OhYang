@@ -1,6 +1,10 @@
 # `ohyang的演算法自學筆記`
 # 大家好
 
+[回家作業](https://github.com/dustinoy/ohyang/tree/master/QuickSort)
+
+---
+
 ### 歐陽伯承
 * 巨資三B
 * 06170219
