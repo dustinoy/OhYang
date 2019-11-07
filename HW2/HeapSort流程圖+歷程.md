@@ -1,5 +1,5 @@
 # 流程圖
-<img src='https://github.com/dustinoy/ohyang/blob/master/Images/HeapSort%E6%B5%81%E7%A8%8B%E5%9C%96.jpg' height=400 weight=300>
+<img src='https://github.com/dustinoy/ohyang/blob/master/Images/HeapSort%E6%B5%81%E7%A8%8B%E5%9C%96.jpg' height=800 weight=600>
 
 ---
 
