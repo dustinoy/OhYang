@@ -1,7 +1,7 @@
 # `ohyang的演算法自學筆記`
 # 大家好
 
-[回家作業](https://github.com/dustinoy/ohyang/tree/master/QuickSort)
+[回家作業](https://github.com/dustinoy/ohyang/tree/master/HW2)
 
 ---
 
