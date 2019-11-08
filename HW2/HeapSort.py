@@ -13,7 +13,7 @@ class Solution(object):
         r=2 * (i + 1)    
         if l < n and nums[i] < nums[l]:   
             max = l   
-        if r < n and nums[max] < nums[r]:   
+        if r < n and nums[i] < nums[r]:   
             max = r   
         if max != i:   
             nums[i],nums[max]=nums[max],nums[i]   
