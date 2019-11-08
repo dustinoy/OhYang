@@ -3,11 +3,11 @@ class Solution(object):
         n = len(nums)   
         start = n // 2 - 1
         for i in range(start, -1, -1):   
-            self.heapify(n, i)   
+            self.heapify(nums,n, i)   
         for i in range(n-1, 0, -1):   
             nums[i],nums[0]=nums[0],nums[i]   
-            self.heapify(i, 0)
-    def heapify(self,n,i):
+            self.heapify(nums,i, 0)
+    def heapify(self,nums,n,i):
         max=i
         l=2 * i + 1  
         r=2 * (i + 1)    
@@ -17,7 +17,7 @@ class Solution(object):
             max = r   
         if max != i:   
             nums[i],nums[max]=nums[max],nums[i]   
-            self.heapify(n, max)   
-
-Solution().HS(nums)
-print(nums)
+            self.heapify(nums,n, max)   
+a = [-2,-5,-98,-46,-3,-21,-69,-98,-54,-31]
+Solution().HS(a)
+print(a)
