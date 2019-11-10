@@ -1,13 +1,13 @@
 class Solution(object):
-    def MS(self, nums):
+    def merge_sort(self, nums):
         if len(nums)<=1:
             return nums
         else:  
             new=[]
             n=len(nums)
             mid=int(n//2)
-            l=Solution().MS(nums[:mid])
-            r=Solution().MS(nums[mid:])
+            l=Solution().merge_sort(nums[:mid])
+            r=Solution().merge_sort(nums[mid:])
         l_index=0
         r_index=0    
         while (len(l)>l_index) and (len(r)>r_index):          
@@ -22,4 +22,4 @@ class Solution(object):
         return new
             
 a = [-2,-5,-98,-46,-3,-21,-69,-98,-54,-31]
-Solution().MS(a)
+Solution().merge_sort(a)
