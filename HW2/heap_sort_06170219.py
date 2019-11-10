@@ -1,5 +1,5 @@
 class Solution(object):
-    def HS(self,nums):     
+    def heap_sort(self,nums):     
         n = len(nums)   
         start = n // 2 - 1
         for i in range(start, -1, -1):   
@@ -19,5 +19,5 @@ class Solution(object):
             nums[i],nums[max]=nums[max],nums[i]   
             self.heapify(nums,n, max)   
 a = [-2,-5,-98,-46,-3,-21,-69,-98,-54,-31]
-Solution().HS(a)
+Solution().heap_sort(a)
 print(a)
