@@ -11,9 +11,9 @@ class Solution(object):
         max=i
         l=2 * i + 1  
         r=2 * (i + 1)    
-        if l < n and nums[i] < nums[l]:   
+        if l < n and nums[max] < nums[l]:   
             max = l   
-        if r < n and nums[i] < nums[r]:   
+        if r < n and nums[max] < nums[r]:   
             max = r   
         if max != i:   
             nums[i],nums[max]=nums[max],nums[i]   
