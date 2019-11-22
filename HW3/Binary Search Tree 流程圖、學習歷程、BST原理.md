@@ -12,3 +12,8 @@
 
 ## BTS原理
 BST為一個二元樹，其中節點分為root,左還有右，所有的右節點一定大於root節點，反之，所有的左節點一定小於root節點，之後網下每個節點都是右大於root大於左，透過新增、查詢、刪除、修改這四大功能，我們可以新增數值進去這個二元樹整理，找尋或刪除指定的資料，或是修改想改的資料，透過二元樹快速地達到整理，搜索，修改資料的功用。
+
+## 參考資源
+[同學](https://github.com/06170230/lulu/tree/master/HW3)
+[網上](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html)
+[影片](https://www.youtube.com/watch?v=YlgPi75hIBc)
