@@ -64,3 +64,5 @@ class MyHashSet:
                 return True
             x = x.next
         return False
+
+# 參考https://github.com/LPT0423/LPT/blob/master/HW4/hash_table_06170212.py 
